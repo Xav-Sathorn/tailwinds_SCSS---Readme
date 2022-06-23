@@ -1,0 +1,11 @@
+{
+  "name": "tailwinds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./src/input.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
